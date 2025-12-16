@@ -404,6 +404,7 @@ html {
 		font-size: 60px;
 		font-weight: 400;
 		text-transform: uppercase;
+		color: red;
 
 		@media screen and (max-width: 768px) {
 			font-size: 48px;
